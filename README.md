@@ -1,5 +1,5 @@
 # PlusPlusChain
-Basic Groundwork For A PoW Blockchain 
+Basic Framework of a Blockchain in C++
 
 To run:
 `gcc -lstdc++ \
