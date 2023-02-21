@@ -1,7 +1,7 @@
-# PlusPlusChain
+# plusplus_chain
 Basic Framework of a Blockchain in C++
 
-To run:
+Example code to compile & run:
 `gcc -lstdc++ \
 -std=c++11 \
 -stdlib=libc++ \
